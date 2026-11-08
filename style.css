@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f0f4ff;
+    margin-top: 80px;
+}
+
+h1 {
+    color: #2563eb;
+}
+
+input {
+    padding: 12px;
+    width: 220px;
+    border: 1px solid #999;
+    border-radius: 6px;
+}
+
+button {
+    padding: 12px 18px;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+li {
+    margin: 12px auto;
+    padding: 10px;
+    background-color: white;
+    width: 300px;
+    list-style: none;
+    border-radius: 6px;
+}
